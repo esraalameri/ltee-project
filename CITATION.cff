@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE Project"
+abstract: "A reproducible analysis"
+type: software
+authors:
+  - given-names: "project for LTEE variant callingEsraa"
+    family-names: "Alameri"
+    email: "esraa.alameri@mbzuai.ac.ae"
+repository-code: "https://github.com/esraalameri/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
