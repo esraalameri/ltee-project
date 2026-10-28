@@ -42,3 +42,5 @@ Source of the sample information: Data Carpentry, *Wrangling Genomics*,
 `Ecoli_metadata_composite.csv` (CC BY 4.0), from Tenaillon et al. 2016,
 *Nature* 536:165, <https://doi.org/10.1038/nature18959>. Runs are in NCBI
 BioProject PRJNA295606.- `README.md` (this file): a data dictionary that explains every column.
+
+The reads were trimmed and subsampled by Data Carpentry.
