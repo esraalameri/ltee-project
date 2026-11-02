@@ -1,3 +1,3 @@
 # Decision log
 
-- Variant filter: minimum read depth 2
+- Variant filter: minimum read depth 5 (Esraa: fewer false calls)
