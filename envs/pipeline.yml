@@ -1,0 +1,18 @@
+name: pipeline
+channels:
+- conda-forge
+- bioconda
+- nodefaults
+dependencies:
+- fastqc >=0.13.0,<0.14
+- multiqc >=1.35,<2
+- bwa >=0.7.19,<0.8
+- samtools >=1.25,<2
+- bcftools >=1.25,<2
+- python 3.13.*
+- quarto >=1.9
+- jupyterlab >=4
+- ipykernel >=7
+- pandas >=2
+- matplotlib >=3.9
+- papermill >=2.6
