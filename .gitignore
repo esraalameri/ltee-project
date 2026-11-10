@@ -28,6 +28,8 @@ reports/*_files/
 **/*.quarto_ipynb
 .ipynb_checkpoints/
 
+notebooks/*.html
+
 # Python and OS clutter
 __pycache__/
 .DS_Store
