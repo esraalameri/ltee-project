@@ -1,0 +1,7 @@
+executor: slurm
+jobs: 20
+default-resources:
+  slurm_account: "YOUR-PROJECT"
+  slurm_partition: "YOUR-PARTITION"
+  mem_mb: 4000
+  runtime: 30
