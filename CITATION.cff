@@ -1,13 +1,31 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "LTEE Project"
-abstract: "A reproducible analysis"
+title: "LTEE variant calling"
+abstract: "Variant calling on three E. coli clones from the Long-Term Evolution Experiment, with a sensitivity analysis of the variant filter."
 type: software
 authors:
-  - given-names: "project for LTEE variant callingEsraa"
+  - given-names: "Esraa"
     family-names: "Alameri"
     email: "esraa.alameri@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0003-4256-6109"
 repository-code: "https://github.com/esraalameri/ltee-project"
 license: MIT
 version: 0.1.0
-date-released: "2026-10-26"
+date-released: "2026-12-01"
+keywords:
+  - reproducibility
+  - variant calling
+  - Long-Term Evolution Experiment
+references:
+  - type: article
+    title: "Tempo and mode of genome evolution in a 50,000-generation experiment"
+    authors:
+      - family-names: "Tenaillon"
+        given-names: "Olivier"
+      - name: "et al."
+    journal: "Nature"
+    volume: 536
+    start: 165
+    end: 170
+    year: 2016
+    doi: "10.1038/nature18959"
